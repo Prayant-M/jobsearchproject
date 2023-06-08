@@ -28,6 +28,6 @@ li:hover::before {
 .icon {
   cursor:pointer;
 }
-/* .card {
-  background:#000;
-} */
+.card {
+  background:#dfd6d6;
+}
